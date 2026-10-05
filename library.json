@@ -13,8 +13,8 @@
   },
   {
    "id": "9302e973-c90c-40c5-b2ce-067a167ebbca",
-   "title": "Hòa Tấu Tứ Quý - Nhạc Xuân Cổ Truyền",
-   "artist": "",
+   "title": "Hòa Tấu Tứ Quý",
+   "artist": "Nhạc Xuân Cổ Truyền",
    "path": "songs/9302e973-c90c-40c5-b2ce-067a167ebbca.mp3",
    "size": 2529532,
    "duration": 158.035011,
@@ -92,5 +92,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791209820034
+ "updatedAt": 1791209832693
 }
