@@ -23,8 +23,8 @@
   },
   {
    "id": "8e589ae3-6624-4800-abb7-c0fbcb34c1a7",
-   "title": "6. Lưu thủy kim tiền - Nhạc lễ hội truyền thống",
-   "artist": "",
+   "title": "Lưu thủy kim tiền",
+   "artist": "Nhạc lễ hội truyền thống",
    "path": "songs/8e589ae3-6624-4800-abb7-c0fbcb34c1a7.mp3",
    "size": 34584217,
    "duration": 1440.744333,
@@ -92,5 +92,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791209715677
+ "updatedAt": 1791209820034
 }
