@@ -63,8 +63,8 @@
   },
   {
    "id": "106b39de-cbb1-4752-8a27-e204b59eaed9",
-   "title": "2. Phật giáo Việt Nam - Đạo ca nhạc lễ hành chánh",
-   "artist": "",
+   "title": "Phật giáo Việt Nam",
+   "artist": "Đạo ca nhạc lễ hành chánh",
    "path": "songs/106b39de-cbb1-4752-8a27-e204b59eaed9.mp3",
    "size": 1555270,
    "duration": 97.162449,
@@ -92,5 +92,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791209888868
+ "updatedAt": 1791209904707
 }
