@@ -3,8 +3,8 @@
  "songs": [
   {
    "id": "21b13af0-9e43-4a0c-9193-74fbb989a978",
-   "title": "Luc Cung Dương - Hông Vân & Thanh Thuy",
-   "artist": "",
+   "title": "Lục cúng dường",
+   "artist": "Hông Vân & Thanh Thủy",
    "path": "songs/21b13af0-9e43-4a0c-9193-74fbb989a978.mp3",
    "size": 8734359,
    "duration": 455.260522,
@@ -232,5 +232,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791213923602
+ "updatedAt": 1791213953472
 }
