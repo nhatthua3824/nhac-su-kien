@@ -13,8 +13,8 @@
   },
   {
    "id": "ebf4fb67-dd21-4da6-b9b2-e78a9a4119f0",
-   "title": "Hằng Thuận Kết Duyên - Vũ Bảo & Võ Hạ Trâm",
-   "artist": "",
+   "title": "Hằng Thuận Kết Duyên",
+   "artist": "Vũ Bảo & Võ Hạ Trâm",
    "path": "songs/ebf4fb67-dd21-4da6-b9b2-e78a9a4119f0.mp3",
    "size": 4818695,
    "duration": 301.126531,
@@ -132,5 +132,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791210167265
+ "updatedAt": 1791210193033
 }
