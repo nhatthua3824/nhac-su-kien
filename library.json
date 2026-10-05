@@ -3,8 +3,8 @@
  "songs": [
   {
    "id": "0155d2df-d9fd-4282-bbd9-6dade7679204",
-   "title": "[Official MV] 50 NĂM VỀ SAU - ĐẶNG THANH TUYỀN x F47 COVER x MECHILL",
-   "artist": "",
+   "title": "50 NĂM VỀ SAU",
+   "artist": "ĐẶNG THANH TUYỀN x F47 COVER x MECHILL",
    "path": "songs/0155d2df-d9fd-4282-bbd9-6dade7679204.mp3",
    "size": 4788601,
    "duration": 299.212336,
@@ -142,5 +142,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791210636872
+ "updatedAt": 1791210659335
 }
