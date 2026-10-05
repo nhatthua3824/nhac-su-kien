@@ -43,8 +43,8 @@
   },
   {
    "id": "1283c412-793a-434d-91aa-7f7cfecc4bd3",
-   "title": "Dang hoa dem Di Da - Ngoc Anh",
-   "artist": "",
+   "title": "Dâng hoa đêm Di Đà",
+   "artist": "Ngọc Anh",
    "path": "songs/1283c412-793a-434d-91aa-7f7cfecc4bd3.mp3",
    "size": 8140301,
    "duration": 339.179208,
@@ -202,5 +202,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791211245994
+ "updatedAt": 1791211360565
 }
