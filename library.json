@@ -53,8 +53,8 @@
   },
   {
    "id": "0ce990e5-fba4-44d0-acd6-c4c7e872758a",
-   "title": "Toa Sang Dem Di Da - Trung Hau",
-   "artist": "",
+   "title": "Tỏa sáng đêm Di Đà",
+   "artist": "Trung Hậu",
    "path": "songs/0ce990e5-fba4-44d0-acd6-c4c7e872758a.mp3",
    "size": 4449511,
    "duration": 185.312653,
@@ -202,5 +202,5 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791211240953
+ "updatedAt": 1791211245994
 }
