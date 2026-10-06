@@ -232,21 +232,8 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791275871281,
+ "updatedAt": 1791275874752,
  "events": [
-  {
-   "id": "550574ed-b2ec-45c7-8d67-e8e3d30efb03",
-   "name": "Vu lan - Báo hiếu",
-   "ids": [
-    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
-    "21b13af0-9e43-4a0c-9193-74fbb989a978",
-    "0b9ba7d3-1ed8-48e1-94c3-82ac4b0e9a72",
-    "e80c1194-992e-49a5-ae29-e581ab1b6319",
-    "0c17af62-9ff2-44f8-955c-1a2b0d948538",
-    "6a1b3042-dd20-493f-955b-5b59edef612b",
-    "0aad678e-0bcb-4ee7-b380-f9b76dd11a67"
-   ]
-  },
   {
    "id": "582071c1-4756-4668-9844-49770f5a8e87",
    "name": "Vía Phật A Di Đà",
