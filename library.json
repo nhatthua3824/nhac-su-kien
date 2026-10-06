@@ -232,7 +232,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791273439218,
+ "updatedAt": 1791275795098,
  "events": [
   {
    "id": "d85b767a-d167-439d-bf2b-9a8bf9989832",
@@ -278,6 +278,56 @@
     "6a1b3042-dd20-493f-955b-5b59edef612b",
     "99446078-ca4a-4b27-b143-9922788687ed",
     "0155d2df-d9fd-4282-bbd9-6dade7679204"
+   ]
+  },
+  {
+   "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
+   "name": "Lễ hành chính",
+   "ids": [
+    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
+    "5462505c-ead2-4f2f-9d6f-ceb4e1839d58",
+    "106b39de-cbb1-4752-8a27-e204b59eaed9",
+    "78d8f91c-038a-4641-a44a-fe1665024b04",
+    "9302e973-c90c-40c5-b2ce-067a167ebbca",
+    "8e589ae3-6624-4800-abb7-c0fbcb34c1a7",
+    "5d50f6bb-c6b1-4f80-a921-06d98eb65dcf",
+    "2029210e-d2be-4593-adba-05b5742a33a8",
+    "16f0b41a-ce98-4c07-9ad2-9e35e3b02234"
+   ]
+  },
+  {
+   "id": "d8add2e4-775a-4ca9-b724-ccf51a6cdf31",
+   "name": "Vu lan - Báo hiếu",
+   "ids": [
+    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
+    "21b13af0-9e43-4a0c-9193-74fbb989a978",
+    "0b9ba7d3-1ed8-48e1-94c3-82ac4b0e9a72",
+    "e80c1194-992e-49a5-ae29-e581ab1b6319",
+    "0aad678e-0bcb-4ee7-b380-f9b76dd11a67",
+    "0c17af62-9ff2-44f8-955c-1a2b0d948538",
+    "6a1b3042-dd20-493f-955b-5b59edef612b"
+   ]
+  },
+  {
+   "id": "3a553fe2-4e86-428a-856a-3f507a0ca6ca",
+   "name": "Vía Phật A Di Đà",
+   "ids": [
+    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
+    "7c515d9a-87e5-4761-bcf0-2ffab94b052e",
+    "0ce990e5-fba4-44d0-acd6-c4c7e872758a",
+    "f4a04b4a-2c41-48fd-b102-afee8d7657cc",
+    "1283c412-793a-434d-91aa-7f7cfecc4bd3"
+   ]
+  },
+  {
+   "id": "903a7657-2b38-48be-8886-c4723935310a",
+   "name": "Lễ hằng thuận",
+   "ids": [
+    "0155d2df-d9fd-4282-bbd9-6dade7679204",
+    "6a1b3042-dd20-493f-955b-5b59edef612b",
+    "ebf4fb67-dd21-4da6-b9b2-e78a9a4119f0",
+    "99446078-ca4a-4b27-b143-9922788687ed",
+    "b1fd821a-ce36-4e15-a7e8-1509b69dacef"
    ]
   }
  ]
