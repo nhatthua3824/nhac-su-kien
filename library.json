@@ -232,7 +232,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791275981687,
+ "updatedAt": 1791276025596,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
@@ -277,11 +277,11 @@
    "id": "903a7657-2b38-48be-8886-c4723935310a",
    "name": "Lễ hằng thuận",
    "ids": [
+    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
     "0155d2df-d9fd-4282-bbd9-6dade7679204",
     "6a1b3042-dd20-493f-955b-5b59edef612b",
     "ebf4fb67-dd21-4da6-b9b2-e78a9a4119f0",
-    "99446078-ca4a-4b27-b143-9922788687ed",
-    "b1fd821a-ce36-4e15-a7e8-1509b69dacef"
+    "99446078-ca4a-4b27-b143-9922788687ed"
    ]
   }
  ]
