@@ -232,21 +232,8 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791275795098,
+ "updatedAt": 1791275871281,
  "events": [
-  {
-   "id": "d85b767a-d167-439d-bf2b-9a8bf9989832",
-   "name": "Lễ hành chính",
-   "ids": [
-    "5462505c-ead2-4f2f-9d6f-ceb4e1839d58",
-    "106b39de-cbb1-4752-8a27-e204b59eaed9",
-    "78d8f91c-038a-4641-a44a-fe1665024b04",
-    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
-    "8e589ae3-6624-4800-abb7-c0fbcb34c1a7",
-    "9302e973-c90c-40c5-b2ce-067a167ebbca",
-    "5d50f6bb-c6b1-4f80-a921-06d98eb65dcf"
-   ]
-  },
   {
    "id": "550574ed-b2ec-45c7-8d67-e8e3d30efb03",
    "name": "Vu lan - Báo hiếu",
