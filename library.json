@@ -2,6 +2,16 @@
  "v": 1,
  "songs": [
   {
+   "id": "3e3d3194-ed2c-4f4a-ac32-aa23e287030a",
+   "title": "Nhac-niem-Phat-6-chu-Rat-hay-Nhieu-ca-si_01",
+   "artist": "",
+   "path": "songs/3e3d3194-ed2c-4f4a-ac32-aa23e287030a.mp3",
+   "size": 28391103,
+   "duration": 1182.617188,
+   "createdAt": 1791378565950,
+   "deleted": false
+  },
+  {
    "id": "21aba5b6-9a24-47a0-a1cb-184cfa5d014a",
    "title": "Quán Âm tịnh thủy",
    "artist": "Nhạc thiền Phật giáo",
@@ -262,7 +272,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791377653787,
+ "updatedAt": 1791378565950,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
@@ -278,7 +288,8 @@
     "2029210e-d2be-4593-adba-05b5742a33a8",
     "16f0b41a-ce98-4c07-9ad2-9e35e3b02234",
     "52904d4f-bf25-4cde-9bcf-9015abdc8e99",
-    "21aba5b6-9a24-47a0-a1cb-184cfa5d014a"
+    "21aba5b6-9a24-47a0-a1cb-184cfa5d014a",
+    "3e3d3194-ed2c-4f4a-ac32-aa23e287030a"
    ]
   },
   {
