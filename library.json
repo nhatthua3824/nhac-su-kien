@@ -3,8 +3,8 @@
  "songs": [
   {
    "id": "19ca9a76-676a-48bf-b7a8-79ff2a2efacc",
-   "title": "009. PhapKhiKetDuyenNamMoADiDaPhat-V.A-2610351_01",
-   "artist": "",
+   "title": "Nhạc niệm Phật",
+   "artist": "Pháp khí kết duyên",
    "path": "songs/19ca9a76-676a-48bf-b7a8-79ff2a2efacc.mp3",
    "size": 35914787,
    "duration": 1496.094354,
@@ -282,7 +282,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791378598578,
+ "updatedAt": 1791378625977,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
