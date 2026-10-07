@@ -282,7 +282,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791378818529,
+ "updatedAt": 1791379103746,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
@@ -344,6 +344,11 @@
     "52904d4f-bf25-4cde-9bcf-9015abdc8e99",
     "21aba5b6-9a24-47a0-a1cb-184cfa5d014a"
    ]
+  },
+  {
+   "id": "eb20d52b-28cf-468c-9d53-8d8e39d01960",
+   "name": "Khóa tu mùa hè",
+   "ids": []
   }
  ],
  "lists": [
