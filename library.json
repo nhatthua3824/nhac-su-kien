@@ -3,8 +3,8 @@
  "songs": [
   {
    "id": "5b17b0ed-ffb3-4c66-8cc1-83e999f0fdec",
-   "title": "Lòng Biết Ơn_Nhạc Phật_-4699632",
-   "artist": "",
+   "title": "Lòng biết ơn",
+   "artist": "Chùa Phật Quang",
    "path": "songs/5b17b0ed-ffb3-4c66-8cc1-83e999f0fdec.mp3",
    "size": 1866086,
    "duration": 116.566375,
@@ -372,7 +372,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791380058440,
+ "updatedAt": 1791380078860,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
