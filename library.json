@@ -3,8 +3,8 @@
  "songs": [
   {
    "id": "21aba5b6-9a24-47a0-a1cb-184cfa5d014a",
-   "title": "QuanAmTinhThuy",
-   "artist": "",
+   "title": "Quán Âm tịnh thủy",
+   "artist": "Nhạc thiền Phật giáo",
    "path": "songs/21aba5b6-9a24-47a0-a1cb-184cfa5d014a.mp3",
    "size": 3951431,
    "duration": 246.708438,
@@ -262,7 +262,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791377635949,
+ "updatedAt": 1791377653787,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
