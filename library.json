@@ -3,8 +3,8 @@
  "songs": [
   {
    "id": "724c03fe-6c06-4c7f-b6e7-962460f934b3",
-   "title": "Hiêu Va Thương - Thiên ca Lang Mai (Lyrics)",
-   "artist": "",
+   "title": "Hiểu và thương",
+   "artist": "Thiền ca làng Mai",
    "path": "songs/724c03fe-6c06-4c7f-b6e7-962460f934b3.mp3",
    "size": 3776304,
    "duration": 235.961179,
@@ -382,7 +382,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791380414285,
+ "updatedAt": 1791380431775,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
