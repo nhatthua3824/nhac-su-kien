@@ -372,7 +372,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791380215648,
+ "updatedAt": 1791380253598,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
@@ -423,19 +423,6 @@
    ]
   },
   {
-   "id": "903a7657-2b38-48be-8886-c4723935310a",
-   "name": "Lễ hằng thuận",
-   "ids": [
-    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
-    "0155d2df-d9fd-4282-bbd9-6dade7679204",
-    "6a1b3042-dd20-493f-955b-5b59edef612b",
-    "ebf4fb67-dd21-4da6-b9b2-e78a9a4119f0",
-    "99446078-ca4a-4b27-b143-9922788687ed",
-    "52904d4f-bf25-4cde-9bcf-9015abdc8e99",
-    "21aba5b6-9a24-47a0-a1cb-184cfa5d014a"
-   ]
-  },
-  {
    "id": "eb20d52b-28cf-468c-9d53-8d8e39d01960",
    "name": "Khóa tu mùa hè",
    "ids": [
@@ -449,6 +436,19 @@
     "67dee699-6760-40ae-bda0-7288659a14f2",
     "0d5b22f3-3b4c-422b-badb-eb5346ba6e9f",
     "dcb20810-005f-4977-b341-7b56bbb27bd9"
+   ]
+  },
+  {
+   "id": "903a7657-2b38-48be-8886-c4723935310a",
+   "name": "Lễ hằng thuận",
+   "ids": [
+    "b1fd821a-ce36-4e15-a7e8-1509b69dacef",
+    "0155d2df-d9fd-4282-bbd9-6dade7679204",
+    "6a1b3042-dd20-493f-955b-5b59edef612b",
+    "ebf4fb67-dd21-4da6-b9b2-e78a9a4119f0",
+    "99446078-ca4a-4b27-b143-9922788687ed",
+    "52904d4f-bf25-4cde-9bcf-9015abdc8e99",
+    "21aba5b6-9a24-47a0-a1cb-184cfa5d014a"
    ]
   }
  ],
