@@ -13,8 +13,8 @@
   },
   {
    "id": "52904d4f-bf25-4cde-9bcf-9015abdc8e99",
-   "title": "Phật Giáo – Nhạc thiền ",
-   "artist": "",
+   "title": "Nhạc thiền",
+   "artist": "Phật giáo",
    "path": "songs/52904d4f-bf25-4cde-9bcf-9015abdc8e99.mp3",
    "size": 5449279,
    "duration": 340.566313,
@@ -262,7 +262,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791377355312,
+ "updatedAt": 1791377635949,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
