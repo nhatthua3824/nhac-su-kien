@@ -232,7 +232,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791276025596,
+ "updatedAt": 1791375815262,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
@@ -246,7 +246,8 @@
     "8e589ae3-6624-4800-abb7-c0fbcb34c1a7",
     "5d50f6bb-c6b1-4f80-a921-06d98eb65dcf",
     "2029210e-d2be-4593-adba-05b5742a33a8",
-    "16f0b41a-ce98-4c07-9ad2-9e35e3b02234"
+    "16f0b41a-ce98-4c07-9ad2-9e35e3b02234",
+    "60494f70-cf63-4aba-aa11-16fbac65ab14"
    ]
   },
   {
@@ -283,6 +284,19 @@
     "ebf4fb67-dd21-4da6-b9b2-e78a9a4119f0",
     "99446078-ca4a-4b27-b143-9922788687ed"
    ]
+  }
+ ],
+ "lists": [
+  {
+   "id": "60494f70-cf63-4aba-aa11-16fbac65ab14",
+   "name": "Vía Di Đà",
+   "ids": [
+    "7c515d9a-87e5-4761-bcf0-2ffab94b052e",
+    "f4a04b4a-2c41-48fd-b102-afee8d7657cc",
+    "1283c412-793a-434d-91aa-7f7cfecc4bd3",
+    "0ce990e5-fba4-44d0-acd6-c4c7e872758a"
+   ],
+   "createdAt": 1791375815260
   }
  ]
 }
