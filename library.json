@@ -9,7 +9,7 @@
    "size": 4973285,
    "duration": 206.883583,
    "createdAt": 1791896075167,
-   "deleted": false
+   "deleted": true
   },
   {
    "id": "724c03fe-6c06-4c7f-b6e7-962460f934b3",
@@ -392,7 +392,7 @@
    "deleted": false
   }
  ],
- "updatedAt": 1791896088658,
+ "updatedAt": 1791973719321,
  "events": [
   {
    "id": "9682510b-1529-4e0b-99cf-0de16967a6df",
